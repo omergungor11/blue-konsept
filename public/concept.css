@@ -1,0 +1,19 @@
+.concept-content {
+  display: contents;
+}
+
+.concept-returning .loader5_wrap {
+  display: none !important;
+}
+
+.concept-form-notice {
+  position: fixed;
+  z-index: 10000;
+  right: 1rem;
+  bottom: 1rem;
+  max-width: calc(100% - 2rem);
+  padding: 1rem 1.5rem;
+  border: 1px solid #4453fe;
+  background: #0c1440;
+  color: #fff;
+}

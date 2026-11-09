@@ -1,0 +1,1228 @@
+{
+  "/": {
+    "key": "home",
+    "pageId": "69272aa8c1734eeb3d97ece3",
+    "title": "Blue Square X – Premium LED Displays & Immersive Digital Experiences",
+    "description": "We design and deliver high-end LED display systems and immersive digital experiences for luxury brands, retail spaces, and iconic environments worldwide.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.schunk.b3aa755fbc80e09e.js",
+      "/vendor/webflow.56618c4e.69c726fa77e162a9.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/concept-sections.js"
+    ]
+  },
+  "/about": {
+    "key": "about",
+    "pageId": "6989a5a69aa2d5fc0d667287",
+    "title": "Who We Are | Blue Square X",
+    "description": "We are a creative and technology-driven team specializing in immersive environments, LED display systems, and digital experience design.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/CustomEase.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.b3aa755fbc80e09e.js",
+      "/vendor/webflow.c81dc470.206afc13ccf26aaf.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/about-interaction.js"
+    ]
+  },
+  "/blog": {
+    "key": "blog",
+    "pageId": "69aaa3e5e02441e70919cfe0",
+    "title": "Immersive Experience & LED Technology Blog | Blue Square X",
+    "description": "Read the latest articles on immersive experiences, LED display technology, and digital environments shaping modern retail and architecture.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/categories/indoor-led": {
+    "key": "categories--indoor-led",
+    "pageId": "695e1b26d62e83783cef985b",
+    "title": "Indoor LED Displays & Immersive Digital Walls | Blue Square X",
+    "description": "Explore high-performance indoor LED displays and immersive digital walls by Blue Square X. Seamless visuals, ultra-high resolution, and scalable solutions for modern spaces.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/categories--indoor-led-interaction.js",
+      "/concept-tabs.js"
+    ]
+  },
+  "/categories/large-format-lcd": {
+    "key": "categories--large-format-lcd",
+    "pageId": "695e1b26d62e83783cef985b",
+    "title": "Large Format LCD Displays & Professional Digital Screens | Blue Square X",
+    "description": "Discover large format LCD displays designed for professional environments. High-resolution screens for corporate, retail, and digital signage applications.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/categories--large-format-lcd-interaction.js",
+      "/concept-tabs.js"
+    ]
+  },
+  "/categories/outdoor-led": {
+    "key": "categories--outdoor-led",
+    "pageId": "695e1b26d62e83783cef985b",
+    "title": "Outdoor LED Displays & Digital Billboards | Blue Square X",
+    "description": "High-performance outdoor LED displays designed for maximum visibility and impact. Weatherproof, ultra-bright digital billboards and video walls for large-scale environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/categories--outdoor-led-interaction.js",
+      "/concept-tabs.js"
+    ]
+  },
+  "/categories/speciality": {
+    "key": "categories--speciality",
+    "pageId": "695e1b26d62e83783cef985b",
+    "title": "Specialty Displays & Custom Digital Solutions | Blue Square X",
+    "description": "Explore specialty displays and custom digital solutions, including unique formats, transparent screens, and bespoke installations for immersive environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/categories--speciality-interaction.js",
+      "/concept-tabs.js"
+    ]
+  },
+  "/contact": {
+    "key": "contact",
+    "pageId": "6980abc01a3aac4afc26e6a0",
+    "title": "Start Your Project with Blue Square X",
+    "description": "Contact our team to plan and build immersive LED experiences, from concept to installation.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/contact-interaction.js",
+      "/concept-tabs.js"
+    ]
+  },
+  "/e-books-and-guides": {
+    "key": "e-books-and-guides",
+    "pageId": "69aabc2abe792d97fd6abaef",
+    "title": "E-books & Guides on Immersive Experiences | Blue Square X",
+    "description": "Download expert guides and e-books on immersive experiences, LED technology, and digital environments for retail, events, and architecture.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/events/vision-x-cinema-private-demo": {
+    "key": "events--vision-x-cinema-private-demo",
+    "pageId": "6aeb1dff3fe6c4c3b0a1e6cd",
+    "title": "Cinema Event",
+    "description": "Experience Private Cinema at Its Finest.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/events--vision-x-cinema-private-demo-interaction.js"
+    ]
+  },
+  "/experiences": {
+    "key": "experiences",
+    "pageId": "699ebc499d0887f6bba61d09",
+    "title": "Immersive Brand Experiences for Luxury Spaces | Blue Square X",
+    "description": "We create immersive digital experiences using high-end LED displays, interactive content, and spatial design for retail, events, and branded environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.b9adbb65.a4eae82e16ade1a1.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/experiences-interaction.js",
+      "/concept-tabs.js"
+    ]
+  },
+  "/experiences/art-museums": {
+    "key": "experiences--art-museums",
+    "pageId": "696788998601a2fc171e9f69",
+    "title": "Art Museum Experiences & Interactive Exhibitions | Blue Square X",
+    "description": "Explore immersive art museum experiences and interactive exhibitions by Blue Square X. Transform museum spaces with cutting-edge digital and visual storytelling solutions.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/CustomEase.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/experiences--art-museums-interaction.js"
+    ]
+  },
+  "/experiences/corporate": {
+    "key": "experiences--corporate",
+    "pageId": "696788998601a2fc171e9f69",
+    "title": "Corporate Experiences & Immersive Workspaces | Blue Square X",
+    "description": "Design intelligent corporate environments that enhance collaboration, communication, and brand storytelling with immersive technology by Blue Square X.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/CustomEase.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/experiences--corporate-interaction.js"
+    ]
+  },
+  "/experiences/hospitality": {
+    "key": "experiences--hospitality",
+    "pageId": "696788998601a2fc171e9f69",
+    "title": "Hospitality Experiences & Immersive Guest Environments | Blue Square X",
+    "description": "Create unforgettable hospitality experiences with immersive technology, digital storytelling, and premium environments designed to elevate guest engagement.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/CustomEase.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/experiences--hospitality-interaction.js"
+    ]
+  },
+  "/experiences/luxury-living": {
+    "key": "experiences--luxury-living",
+    "pageId": "696788998601a2fc171e9f69",
+    "title": "Luxury Living Experiences & Immersive Residential Spaces | Blue Square X",
+    "description": "Design luxury living experiences with immersive technology, digital environments, and premium residential solutions that elevate modern lifestyles.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/CustomEase.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/experiences--luxury-living-interaction.js"
+    ]
+  },
+  "/experiences/luxury-real-estate": {
+    "key": "experiences--luxury-real-estate",
+    "pageId": "696788998601a2fc171e9f69",
+    "title": "Luxury Real Estate Experiences & Immersive Property Showcases | Blue Square X",
+    "description": "Elevate luxury real estate with immersive experiences, digital showrooms, and interactive presentations that engage buyers and accelerate sales.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/CustomEase.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/experiences--luxury-real-estate-interaction.js"
+    ]
+  },
+  "/experiences/luxury-retail": {
+    "key": "experiences--luxury-retail",
+    "pageId": "696788998601a2fc171e9f69",
+    "title": "Luxury Retail Experiences & Immersive Store Environments | Blue Square X",
+    "description": "Create immersive luxury retail experiences with digital installations, interactive displays, and storytelling that elevate in-store engagement and brand presence.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/CustomEase.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/experiences--luxury-retail-interaction.js"
+    ]
+  },
+  "/insights": {
+    "key": "insights",
+    "pageId": "69a188edc1a4fa9836b3cbae",
+    "title": "Insights on Immersive Experiences & LED Technology | Blue Square X",
+    "description": "Explore articles, insights, and expert perspectives on immersive experiences, LED display technology, and digital environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/news": {
+    "key": "news",
+    "pageId": "69aadbe225633239bccabb4e",
+    "title": "Company News & Industry Updates | Blue Square X",
+    "description": "Stay up to date with the latest news, company updates, and industry developments in immersive experiences and LED technology.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/product-landings/vision-x-product": {
+    "key": "product-landings--vision-x-product",
+    "pageId": "6a1d719c8d055b96bad2702c",
+    "title": "Vision X LED Displays | Premium Visual Experiences by Blue Square X",
+    "description": "Transform spaces with Vision X LED displays. Experience exceptional image quality, true color accuracy, deep blacks, and immersive visual performance designed for luxury, corporate, and real estate environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/product-landings--vision-x-product-interaction.js",
+      "/concept-tabs.js",
+      "/vendor/swiper-bundle.min.js",
+      "/concept-slider.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/products": {
+    "key": "products",
+    "pageId": "69b81d2819eb9e5845604d9e",
+    "title": "Luxury LED Display Systems for Iconic Spaces | Blue Square X",
+    "description": "Engineered LED display solutions combining precision technology, refined design, and seamless performance for high-end architectural and brand environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.b9adbb65.a4eae82e16ade1a1.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/products-interaction.js",
+      "/concept-tabs.js"
+    ]
+  },
+  "/products/squarex": {
+    "key": "products--squarex",
+    "pageId": "695f8d44ecb0ad3422813af5",
+    "title": "SquareX Digital Display System & Immersive Solution | Blue Square X",
+    "description": "Discover SquareX — a digital display system designed to integrate technology, content, and space into immersive environments and impactful brand experiences.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/products--squarex-interaction.js",
+      "/concept-tabs.js",
+      "/vendor/swiper-bundle.min.js",
+      "/concept-slider.js"
+    ]
+  },
+  "/products/vision-x-all-in-one": {
+    "key": "products--vision-x-all-in-one",
+    "pageId": "695f8d44ecb0ad3422813af5",
+    "title": "Vision X All-in-One LED Display Solution | Blue Square X",
+    "description": "Discover Vision X — an all-in-one LED display solution with seamless design, high resolution, and easy installation for corporate and commercial environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/products--vision-x-all-in-one-interaction.js",
+      "/concept-tabs.js",
+      "/vendor/swiper-bundle.min.js",
+      "/concept-slider.js"
+    ]
+  },
+  "/products/vision-x-art-totem": {
+    "key": "products--vision-x-art-totem",
+    "pageId": "695f8d44ecb0ad3422813af5",
+    "title": "Vision X Art Totem LED Display | Digital Totem Solution | Blue Square X",
+    "description": "Discover Vision X Art Totem — a freestanding LED display designed as a digital sculpture for immersive environments, retail spaces, and exhibitions.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/products--vision-x-art-totem-interaction.js",
+      "/concept-tabs.js",
+      "/vendor/swiper-bundle.min.js",
+      "/concept-slider.js"
+    ]
+  },
+  "/products/vision-x-custom-series": {
+    "key": "products--vision-x-custom-series",
+    "pageId": "695f8d44ecb0ad3422813af5",
+    "title": "Vision X Custom Series LED Displays | Tailored Solutions | Blue Square X",
+    "description": "Explore Vision X Custom Series — modular LED display solutions designed for bespoke projects, seamless integration, and large-scale immersive environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/products--vision-x-custom-series-interaction.js",
+      "/concept-tabs.js",
+      "/vendor/swiper-bundle.min.js",
+      "/concept-slider.js"
+    ]
+  },
+  "/products/vivid-x-touch": {
+    "key": "products--vivid-x-touch",
+    "pageId": "695f8d44ecb0ad3422813af5",
+    "title": " | Blue Square X",
+    "description": "Build Your Immersive Experiences",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/products--vivid-x-touch-interaction.js",
+      "/concept-tabs.js"
+    ]
+  },
+  "/products/xterra-all-in-one": {
+    "key": "products--xterra-all-in-one",
+    "pageId": "695f8d44ecb0ad3422813af5",
+    "title": "Xterra All-in-One LED Display Solution | Blue Square X",
+    "description": "Discover Xterra — a powerful all-in-one LED display solution designed for durability, seamless visuals, and flexible use across corporate and public environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/products--xterra-all-in-one-interaction.js",
+      "/concept-tabs.js",
+      "/vendor/swiper-bundle.min.js",
+      "/concept-slider.js"
+    ]
+  },
+  "/products/xterra-custom": {
+    "key": "products--xterra-custom",
+    "pageId": "695f8d44ecb0ad3422813af5",
+    "title": "Xterra Custom LED Displays & Modular Solutions | Blue Square X",
+    "description": "Explore Xterra Custom — modular LED display solutions engineered for large-scale, high-performance environments with maximum flexibility and durability.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.27775bbf.18f6d979d862b673.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/products--xterra-custom-interaction.js",
+      "/concept-tabs.js",
+      "/vendor/swiper-bundle.min.js",
+      "/concept-slider.js"
+    ]
+  },
+  "/services": {
+    "key": "services",
+    "pageId": "69957c1f6e923b845a26380c",
+    "title": "From Concept to Installation: Immersive Services | Blue Square X",
+    "description": "Strategy, design, content, and LED deployment — complete services to transform spaces into immersive brand experiences.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/split-type.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/services-interaction.js"
+    ]
+  },
+  "/services/creative-services": {
+    "key": "services--creative-services",
+    "pageId": "6992ebd64474e7062a418e0c",
+    "title": "Creative Services & Experiential Design | Blue Square X",
+    "description": "Discover creative services by Blue Square X — from concept and storytelling to content and experiential design that bring immersive environments to life.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/solution-landings/architectural-led-systems-for-museums": {
+    "key": "solution-landings--architectural-led-systems-for-museums",
+    "pageId": "69f210e311cff3bb7b769571",
+    "title": "Architectural LED Systems for Museums | Blue Square X",
+    "description": "Architectural LED systems for museums, galleries, and cultural institutions. Create immersive exhibitions with custom LED displays designed for storytelling and visitor engagement.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.0320b7d8.ce9320a82a66ff50.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/solution-landings--architectural-led-systems-for-museums-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/solution-landings/corporate-led-solutions": {
+    "key": "solution-landings--corporate-led-solutions",
+    "pageId": "69f210e311cff3bb7b769571",
+    "title": "Corporate LED Solutions for Executive Spaces | Blue Square X",
+    "description": "Premium corporate LED solutions designed for executive spaces, boardrooms, and modern workplaces. Create impactful presentations and immersive environments with high-end digital display systems.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.0320b7d8.ce9320a82a66ff50.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/solution-landings--corporate-led-solutions-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/solution-landings/led-solutions-for-luxury-hospitality": {
+    "key": "solution-landings--led-solutions-for-luxury-hospitality",
+    "pageId": "69f210e311cff3bb7b769571",
+    "title": "Luxury Hospitality LED Solutions | Elevate Guest Experiences",
+    "description": "Transform hospitality spaces with elegant LED installations designed for luxury hotels and resorts. Deliver immersive visual experiences that enhance ambiance, storytelling, and brand perception.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.0320b7d8.ce9320a82a66ff50.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/solution-landings--led-solutions-for-luxury-hospitality-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/solution-landings/led-systems-for-automotive": {
+    "key": "solution-landings--led-systems-for-automotive",
+    "pageId": "69f210e311cff3bb7b769571",
+    "title": "Automotive LED Systems for Showrooms | Blue Square X",
+    "description": "Transform automotive showrooms and experience centers with custom LED display systems designed for immersive brand experiences and high-impact visuals.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.0320b7d8.ce9320a82a66ff50.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/solution-landings--led-systems-for-automotive-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/solution-landings/led-wall-for-a-spatial-experience": {
+    "key": "solution-landings--led-wall-for-a-spatial-experience",
+    "pageId": "69f210e311cff3bb7b769571",
+    "title": "More Than an LED Wall — A Spatial Experience | Blue Square X",
+    "description": "Discover immersive LED environments designed as complete spatial experiences. Blue Square X creates premium digital installations that transform spaces through storytelling, motion, and interactive technology.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.0320b7d8.ce9320a82a66ff50.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/solution-landings--led-wall-for-a-spatial-experience-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/solution-landings/led-walls-for-real-estate": {
+    "key": "solution-landings--led-walls-for-real-estate",
+    "pageId": "69f210e311cff3bb7b769571",
+    "title": "LED Video Walls for Real Estate Showrooms | Blue Square X",
+    "description": "Transform real estate showrooms with premium LED video walls and immersive digital experiences. Showcase properties with high-impact visuals that engage buyers and elevate presentations.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.0320b7d8.ce9320a82a66ff50.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/solution-landings--led-walls-for-real-estate-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/solution-landings/luxury-retail-led-walls": {
+    "key": "solution-landings--luxury-retail-led-walls",
+    "pageId": "69f210e311cff3bb7b769571",
+    "title": "Luxury Retail LED Walls for Flagship Stores | Blue Square X",
+    "description": "Premium LED walls for luxury retail flagship stores designed to create immersive brand experiences, captivate customers, and elevate in-store storytelling with high-impact digital displays.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.121b0d7ff03e0f4a.js",
+      "/vendor/webflow.0320b7d8.ce9320a82a66ff50.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/solution-landings--luxury-retail-led-walls-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/sub-services/build-services": {
+    "key": "sub-services--build-services",
+    "pageId": "69665e2cb1eb27bf78fe60df",
+    "title": "Build Services for Immersive & Digital Environments | Blue Square X",
+    "description": "Explore build services for immersive environments, including installation, integration, and technical execution of digital and experiential spaces.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/sub-services/custom-software-applications": {
+    "key": "sub-services--custom-software-applications",
+    "pageId": "69665e2cb1eb27bf78fe60df",
+    "title": "Custom Software & Interactive Applications | Blue Square X",
+    "description": "Discover custom software solutions and interactive applications designed to power immersive environments, content management, and real-time digital experiences.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/sub-services/design-services": {
+    "key": "sub-services--design-services",
+    "pageId": "69665e2cb1eb27bf78fe60df",
+    "title": "Design Services for Immersive & Digital Environments | Blue Square X",
+    "description": "Explore design services focused on immersive environments, combining spatial design, digital experiences, and storytelling to create impactful visual solutions.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/sub-services/digital-art-curation": {
+    "key": "sub-services--digital-art-curation",
+    "pageId": "69665e2cb1eb27bf78fe60df",
+    "title": "Digital Art Curation & Immersive Content Experiences | Blue Square X",
+    "description": "Discover digital art curation services that blend technology, storytelling, and artistic direction to create immersive and meaningful visual experiences.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/sub-services/support-services": {
+    "key": "sub-services--support-services",
+    "pageId": "69665e2cb1eb27bf78fe60df",
+    "title": "Support Services & System Maintenance | Blue Square X",
+    "description": "Ensure seamless performance with support services including system maintenance, monitoring, and ongoing management of immersive and digital environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/sub-services/world-class-content-services": {
+    "key": "sub-services--world-class-content-services",
+    "pageId": "69665e2cb1eb27bf78fe60df",
+    "title": "World-Class Content Services & Immersive Visual Storytelling | Blue Square X",
+    "description": "Explore world-class content services including 3D animation, CGI, digital art, and immersive storytelling designed to captivate audiences and elevate brand experiences.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/sub-services/your-brand-brought-to-life": {
+    "key": "sub-services--your-brand-brought-to-life",
+    "pageId": "69665e2cb1eb27bf78fe60df",
+    "title": "Brand Experience Design & Immersive Brand Environments | Blue Square X",
+    "description": "Bring your brand to life with immersive experiences, spatial storytelling, and digital environments designed to engage audiences and elevate brand presence.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/technical-pages/privacy-policy": {
+    "key": "technical-pages--privacy-policy",
+    "pageId": "6972365afd3beed90eb08dd3",
+    "title": "BlueSquareX",
+    "description": "Build Your Immersive Experiences",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/technical-pages/terms-of-use": {
+    "key": "technical-pages--terms-of-use",
+    "pageId": "6972365afd3beed90eb08dd3",
+    "title": "BlueSquareX",
+    "description": "Build Your Immersive Experiences",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/videos": {
+    "key": "videos",
+    "pageId": "69aab59c9687d8c3fd152c7c",
+    "title": "LED Installations & Immersive Experience Videos | Blue Square X",
+    "description": "Explore video showcases of immersive environments, LED display systems, and real-world installations across retail and architectural spaces.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/work": {
+    "key": "work",
+    "pageId": "697b517de063f4db6e6f125b",
+    "title": "Signature Immersive Projects for Iconic Spaces | Blue Square X",
+    "description": "A curated selection of high-end immersive installations blending LED technology, content, and spatial design for luxury environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/work-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/work/gaylord-hotels-sea-life": {
+    "key": "work--gaylord-hotels-sea-life",
+    "pageId": "6964f443f9e0ddb384c3f3f1",
+    "title": "Gaylord Pacific Resort & Convention Center (Sea Life) | Blue Square X",
+    "description": "Build Your Immersive Experiences",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.365574be05fd6620.js",
+      "/vendor/webflow.688538b5.1eb8c7bbf14313d3.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/work/the-pagani-residences": {
+    "key": "work--the-pagani-residences",
+    "pageId": "6964f443f9e0ddb384c3f3f1",
+    "title": "The Pagani Residences | Blue Square X",
+    "description": "Build Your Immersive Experiences",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.365574be05fd6620.js",
+      "/vendor/webflow.688538b5.1eb8c7bbf14313d3.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/work/toledo-museum-of-art": {
+    "key": "work--toledo-museum-of-art",
+    "pageId": "6964f443f9e0ddb384c3f3f1",
+    "title": "Toledo Museum of Art  (House of Yatreda) | Blue Square X",
+    "description": "Build Your Immersive Experiences",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.365574be05fd6620.js",
+      "/vendor/webflow.688538b5.1eb8c7bbf14313d3.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/work/twenty-sixth-2nd": {
+    "key": "work--twenty-sixth-2nd",
+    "pageId": "6964f443f9e0ddb384c3f3f1",
+    "title": "Twenty Sixth & 2nd | Blue Square X",
+    "description": "Build Your Immersive Experiences",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.schunk.bdf58efcee47c042.js",
+      "/vendor/webflow.schunk.365574be05fd6620.js",
+      "/vendor/webflow.688538b5.1eb8c7bbf14313d3.js",
+      "/concept-runtime.js",
+      "/concept-forms.js"
+    ]
+  },
+  "/work/page/2": {
+    "key": "work--page-2",
+    "pageId": "697b517de063f4db6e6f125b",
+    "title": "Signature Immersive Projects for Iconic Spaces | Blue Square X",
+    "description": "A curated selection of high-end immersive installations blending LED technology, content, and spatial design for luxury environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/work-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/work/page/3": {
+    "key": "work--page-3",
+    "pageId": "697b517de063f4db6e6f125b",
+    "title": "Signature Immersive Projects for Iconic Spaces | Blue Square X",
+    "description": "A curated selection of high-end immersive installations blending LED technology, content, and spatial design for luxury environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/work-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/work/page/4": {
+    "key": "work--page-4",
+    "pageId": "697b517de063f4db6e6f125b",
+    "title": "Signature Immersive Projects for Iconic Spaces | Blue Square X",
+    "description": "A curated selection of high-end immersive installations blending LED technology, content, and spatial design for luxury environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/work-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/work/page/5": {
+    "key": "work--page-5",
+    "pageId": "697b517de063f4db6e6f125b",
+    "title": "Signature Immersive Projects for Iconic Spaces | Blue Square X",
+    "description": "A curated selection of high-end immersive installations blending LED technology, content, and spatial design for luxury environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/work-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/work/page/6": {
+    "key": "work--page-6",
+    "pageId": "697b517de063f4db6e6f125b",
+    "title": "Signature Immersive Projects for Iconic Spaces | Blue Square X",
+    "description": "A curated selection of high-end immersive installations blending LED technology, content, and spatial design for luxury environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/work-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  },
+  "/work/page/7": {
+    "key": "work--page-7",
+    "pageId": "697b517de063f4db6e6f125b",
+    "title": "Signature Immersive Projects for Iconic Spaces | Blue Square X",
+    "description": "A curated selection of high-end immersive installations blending LED technology, content, and spatial design for luxury environments.",
+    "scripts": [
+      "/vendor/gsap.min.js",
+      "/vendor/ScrollTrigger.min.js",
+      "/vendor/lenis.min.js",
+      "/vendor/jquery.min.js",
+      "/vendor/webflow.schunk.36b8fb49256177c8.js",
+      "/vendor/webflow.schunk.66b8baab73e25e7b.js",
+      "/vendor/webflow.schunk.3ef3d5c39ddf8f1e.js",
+      "/vendor/webflow.cffa2d6d.26b052b7416ee163.js",
+      "/concept-runtime.js",
+      "/concept-forms.js",
+      "/vendor/work-interaction.js"
+    ],
+    "attributes": [
+      "fs-list"
+    ]
+  }
+}
